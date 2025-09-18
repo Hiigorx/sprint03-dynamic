@@ -36,5 +36,5 @@ Projeto da **Sprint 03** com foco em aplicar **estruturas de dados** e **algorit
 
 ## 🖥️ Execução
 ```bash
-git clone https://github.com/usuario/repositorio.git
+git clone https://github.com/Hiigorx/sprint03-dynamic
 python main.py
